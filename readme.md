@@ -20,7 +20,7 @@ Using Laravel, vue, <a href="https://github.com/SortableJS/Vue.Draggable">Vue.Dr
 
 # Directory
 
-For Webpack Mix : Project/webpack.mix.js
-For Component Vue : Project/resource/js/components/AppComponent.vue
-For Js : Project/resource/js/app.js
-For scss : Project/resource/sass/app.scss
+1. For Webpack Mix : Project/webpack.mix.js
+2. For Component Vue : Project/resource/js/components/AppComponent.vue
+3. For Js : Project/resource/js/app.js
+4. For4 scss : Project/resource/sass/app.scss
