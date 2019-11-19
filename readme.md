@@ -17,3 +17,10 @@ Using Laravel, vue, <a href="https://github.com/SortableJS/Vue.Draggable">Vue.Dr
 5. Run command "npm install"
 6. php artisan serve
 7. http://localhost:8000
+
+# Directory
+
+For Webpack Mix : Project/webpack.mix.js
+For Component Vue : Project/resource/js/components/AppComponent.vue
+For Js : Project/resource/js/app.js
+For scss : Project/resource/sass/app.scss
